@@ -9,3 +9,4 @@ Key Highlights:
 3.Designed a user-friendly dashboard interface accessible to users across different levels of expertise within the organization.
 4.Visualized Key Performance Indicators (KPIs) in a format that provides a quick overview of the company's performance.
 5.Applied relevant Excel functions and formulas to optimize and structure the data for effective visualization.
+Pdf Link : https://www.canva.com/design/DAF77RoBcwA/DyQ9OguR-1Jv_rmKnsbH3A/edit?utm_content=DAF77RoBcwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
